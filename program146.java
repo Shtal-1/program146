@@ -19,7 +19,6 @@ class Number
         System.out.println("Value is : "+this.iNo);
     }
 
-        // Add function here with the the logic
 }
 
 class program______
